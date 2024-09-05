@@ -10,9 +10,9 @@ const perguntas = [
         enunciado: 'No âmbito social, você prefere:',
         alternativas: [
             {
-                texto: 'O brasil será o pais mais rico do mundo',
+                texto: 'O Brasil será o pais mais rico do mundo',
                 consequencia: 'Amazonia será explorada',
-                afirmacao: 'voçê tornou o brasil rico porém precisa dividir sua casa com um macaco pois ele perdeu seu habitat',
+                afirmacao: 'Você tornou o brasil rico porém precisa dividir sua casa com um macaco pois ele perdeu seu habitat',
 
             },
 
@@ -29,10 +29,9 @@ const perguntas = [
         enunciado: 'No âmbito ambiental, você prefere:',
         alternativas: [
             {
-                texto: 'Extinguir a Floresta Amazônica.',
-                consequencia: 'Os problemas ambientais desapareceram.',
-                afirmacao: 'Além disso, você destruiu o maior patrimônio ambiental da América do Sul, a Floresta Amazônica, mas o aqueciemnto global e os outros problemas ambientais acabaram.',
-
+                texto: 'O Brasil se torna o pais mais rico do mundo.',
+                consequencia: 'A amazonia sera explorada.',
+                afirmacao: 'Além diss, voce vai dividir sua casa com um macaco, ja que seu habitat natural foi destruido, mas ele e gente boa',
             },
 
             {
@@ -47,16 +46,16 @@ const perguntas = [
         enunciado: 'No âmbito tecnológico, você prefere:',
         alternativas: [
             {
-                texto: 'os componentes eletronicos ficam mais baratos.',
-                consequencia: 'mas a exploraçao infantil aumenta.',
-                afirmacao: 'agora você tem um pc gamer bom, mas tera que entregar seu filho aos chineses.',
+                texto: 'Os componentes eletronicos ficam mais baratos.',
+                consequencia: 'A exploraçao infantil aumenta.',
+                afirmacao: 'Contudo, você tem um pc gamer bom, mas terá que entregar seu filho aos chineses.',
 
             },
 
             {
-                texto: 'tornar o acesso a suad extremamente barato.',
-                consequencia: 'porem os medicos agora ganham mal.',
-                afirmacao: 'agora quem quer ser medico e visto como uma pessoa caridosa.',
+                texto: 'Tornar o acesso a saúde extremamente barato.',
+                consequencia: 'Os medicos agora ganham mal.',
+                afirmacao: 'Contudo, quem quer ser médico é visto como uma pessoa caridosa.',
 
             }
         ]

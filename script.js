@@ -10,16 +10,16 @@ const perguntas = [
         enunciado: 'No âmbito social, você prefere:',
         alternativas: [
             {
-                texto: 'Destruir qualquer forma de exploração humana.',
-                consequencia: 'Você não será feliz.',
-                afirmacao: 'Você destriu a exploração humana, mas nunca vai sentir a doce felicidade.',
+                texto: 'O brasil será o pais mais rico do mundo',
+                consequencia: 'Amazonia será explorada',
+                afirmacao: 'voçê tornou o brasil rico porém precisa dividir sua casa com um macaco pois ele perdeu seu habitat',
 
             },
 
             {
                 texto: 'Acabar com todas as drogas do mundo.',
-                consequencia: 'Os usuários de drogas morreram.',
-                afirmacao: 'Você acabou com as drogas, até aquelas que fazem bem, mas acabou matando todos os usuários do mundo.',
+                consequencia: 'Cirurgia sem anestesia',
+                afirmacao: 'Você acabou com as drogas, mas agora voçê terá que lidar com a dor de uma remoção de dente',
 
             }
         ]
@@ -47,16 +47,16 @@ const perguntas = [
         enunciado: 'No âmbito tecnológico, você prefere:',
         alternativas: [
             {
-                texto: 'Ter internet para sempre.',
-                consequencia: 'Ninguém pode se comunicar nas redes sociais ou qualquer meio de comunicação digital.',
-                afirmacao: 'Contudo, agora você tem internet para sempre, mesmo não podendo se comunicar nas redes digitais.',
+                texto: 'os componentes eletronicos ficam mais baratos.',
+                consequencia: 'mas a exploraçao infantil aumenta.',
+                afirmacao: 'agora você tem um pc gamer bom, mas tera que entregar seu filho aos chineses.',
 
             },
 
             {
-                texto: 'Criar a cura do Câncer.',
-                consequencia: 'Todos os habitantes do mundo terão tumores com sequelas visuais.',
-                afirmacao: 'Contudo, você criou a cura do câncer, mesmo assim, todos os humanos terão tumores visíveis.',
+                texto: 'tornar o acesso a suad extremamente barato.',
+                consequencia: 'porem os medicos agora ganham mal.',
+                afirmacao: 'agora quem quer ser medico e visto como uma pessoa caridosa.',
 
             }
         ]
